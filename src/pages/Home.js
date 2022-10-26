@@ -43,7 +43,7 @@ function Home() {
     },[])
 
     const handleDetail = (id) => {
-        window.location.href = `/products/${id}`
+        navigate(`/products/${id}`)
     }
 
     const handleAdd = () => {
@@ -101,7 +101,7 @@ function Home() {
                                 <StyledTableCell component="th" scope="row">
                                     {item.id}
                                 </StyledTableCell>
-                                <StyledTableCell align="center"><Link onClick={()=>handleDetail(item.id)}>{item.name}</Link></StyledTableCell>
+                                <StyledTableCell align="center" onClick={()=>handleDetail(item.id)}>{item.name}</StyledTableCell>
                                 <StyledTableCell align="center">{item.price}</StyledTableCell>
                                 <StyledTableCell align="center">{item.stock}</StyledTableCell>
                                 <StyledTableCell align="center"><Button variant="contained" onClick={()=> handleEdit(item.id)}>Cập nhật</Button></StyledTableCell>

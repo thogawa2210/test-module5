@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e1665d0-d290-441d-8f2f-c3818114a70f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../setup_react/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setup_react/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setup_react/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setup_react/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setup_react/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/AddBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/AddContact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/EditBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/Library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/UserDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-api/src/pages/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/mock-data/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/pages/student/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/styles/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-nextjs/styles/Login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/BookManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/CarSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/ContactForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/EmployeeDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/FormLogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/MailForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/MyClock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/Selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/ValidateForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/baitap-route/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/counter-ver-2/Counter1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/counter-ver-2/Counter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/counter-ver-2/CounterVer2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/counter-ver-2/useIncrement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/thuchanh-route/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/thuchanh-route/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/thuchanh-route/Contract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/thuchanh-route/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/components/thuchanh-route/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-react/src/hooks/useClock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/mock-api/articles/GET.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/mock-api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/mock-api/users/GET.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/mock-api/users/POST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/mock-api/users/__user_id__/GET.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2GFhw57ocKitVt3smBBBTXkfkPw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/JS/Thuc_hanh/redux-thuchanh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.1.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS\Thuc_hanh\redux-thuchanh\src" />
+      <recent name="D:\JS\Thuc_hanh\redux-thuchanh\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1665d0-d290-441d-8f2f-c3818114a70f" name="Changes" comment="" />
+      <created>1665990475183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665990475183</updated>
+      <workItem from="1665990478464" duration="3012000" />
+      <workItem from="1666056643339" duration="8662000" />
+      <workItem from="1666086929176" duration="6102000" />
+      <workItem from="1666746657015" duration="650000" />
+      <workItem from="1666747357913" duration="8457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
